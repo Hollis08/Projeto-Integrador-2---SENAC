@@ -3,9 +3,8 @@
   <b>MySQL</b> ultilizando o auxilio da IDE MySQL Workbench.
   <br>
   <br>
-  O projeto foi um simples gerenciamento de mercado, onde a pessoa operando poderia cadastrar produtos em uma lista que aparece na tela inicial, ela pode ser alterada tanto 
-excluindo como adicionando um novo produto; Há também o cadastro de clientes para quem sabe uma nova atualização onde o cliente pode ter descontos, no geral é um projeto simples 
-mas bem funcional.</p>
+  O projeto foi um software de gerenciamento de mercado, onde a pessoa operando poderia cadastrar produtos em uma lista que aparece na tela inicial, ela pode ser alterada tanto 
+excluindo como adicionando um novo produto; Há também o cadastro de clientes para quem sabe uma nova atualização onde o cliente pode ter descontos, no geral é um projeto de uso intuitivo e funcional.</p>
 <h2>Ferrramentas ultilizadas:</h2>
 <li>Java<img style="width: 20px; height: 18px;" src='https://raw.githubusercontent.com/Hollis08/Projeto-Integrador-2---SENAC/refs/heads/main/java.png'></li>
 <li>MySQL <img style="width: 20px; height: 18px" src='https://raw.githubusercontent.com/Hollis08/Projeto-Integrador-2---SENAC/refs/heads/main/mysql.png'> </li>
